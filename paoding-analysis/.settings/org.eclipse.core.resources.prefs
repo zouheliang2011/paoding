@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//examples/net/paoding/analysis/examples/gettingstarted/ch2/Chinese.java=UTF-8
+encoding//src/net/paoding/analysis/analyzer/PaodingTokenizer.java=UTF-8
+encoding//src/net/paoding/analysis/analyzer/estimate/Estimate.java=UTF-8
+encoding//src/net/paoding/analysis/analyzer/estimate/TryPaodingAnalyzer.java=UTF-8
+encoding//src/net/paoding/analysis/knife/CJKKnife.java=UTF-8
+encoding//src/net/paoding/analysis/knife/CharSet.java=UTF-8
+encoding//src/net/paoding/analysis/knife/NumberKnife.java=UTF-8
